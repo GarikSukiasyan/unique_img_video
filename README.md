@@ -3,6 +3,16 @@
 
 Конфиг подключен не полностью
 
+Используется ffmpeg.exe 
+
+Каталог:
+/main.py
+/config.ini
+/ffmpeg.exe
+/input_video/
+/input_image/
+/output_video/
+/output_image/
 
 
 
